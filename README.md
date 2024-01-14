@@ -4,7 +4,8 @@
 
 ## About Project
 
- Project to try out tagging system in github before 
+ Project to try out tagging system in github before we perform actions in production code. 
+ ***(To preempt mistakes in production that have a higher chance of happening of no exprience is gained and tested beforehand.)***
 
 
  ## Roadmap
